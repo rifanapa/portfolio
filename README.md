@@ -21,7 +21,8 @@
                 <li><a href="#contact">Contact</a></li>
                 <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
             </ul> 
-          
+             <i class="fa-solid fa-bars"onclick="openmenu()"></i>
+               
                
         </nav>
         <div><br>
